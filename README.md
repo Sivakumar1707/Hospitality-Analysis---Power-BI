@@ -18,7 +18,7 @@ Create relevant insights that are not provided in the metric list/mock-up dashbo
 ![mock up dashboard_atliq grands](https://github.com/Sivakumar1707/Hospitality-Analysis---Power-BI/assets/156114789/c8b7125c-9ac9-4016-ac60-62f20071cda8)
 
 # Data Model
-![Screenshot 2024-03-12 135202](https://github.com/Sivakumar1707/Hospitality-Analysis---Power-BI/assets/156114789/60b4dce3-85a6-4c6f-9780-5fa614a83304)
+![Data Model](https://github.com/Sivakumar1707/Hospitality-Analysis---Power-BI/assets/156114789/deba27cc-4292-4e56-9104-6069a9cedf16)
 
 # Overall Analysis View
 ![Screenshot 2024-03-12 135250](https://github.com/Sivakumar1707/Hospitality-Analysis---Power-BI/assets/156114789/11c21fc6-0943-4e45-9c00-63e67fb9adc8)
